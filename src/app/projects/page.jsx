@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import ProjectCard from '@/components/P/card1'
 import Card2 from '@/components/P/card2'
@@ -11,6 +12,8 @@ const page = () => {
     <ProjectCard/>
     <Card2/>
     <Card3/>
+    
+    
     </div>
     </div>
   )
