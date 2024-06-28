@@ -13,8 +13,8 @@ const Header = () => {
         <p className='text-slate-300'>Aspiring web2 + web3 developer</p>
         <p className='text-slate-400'>NITK,Surathkal</p>
         <br />
-        <br />
-        <Link href='https:google.com' className='border-r border-b p-3 rounded-2xl hover:text-slate-300 hover:border-t hover:border-l hover:border-0 shadow-lg shadow-slate-700  lg:hidden text-wrap' >Download Resume</Link>
+        
+        <Link href='https:google.com' className='border-r border-b p-3 rounded-2xl hover:text-slate-300 hover:border-t hover:border-l hover:border-0 shadow-lg shadow-slate-700  lg:hidden text-wrap' > Resume</Link>
        </div>
        </div>
        <div className='flex-1 items-center text-white flex justify-center'>
