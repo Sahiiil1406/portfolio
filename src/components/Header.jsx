@@ -14,11 +14,11 @@ const Header = () => {
         <p className='text-slate-400'>NITK,Surathkal</p>
         <br />
         
-        <Link href='https:google.com' className='border-r border-b p-3 rounded-2xl hover:text-slate-300 hover:border-t hover:border-l hover:border-0 shadow-lg shadow-slate-700  lg:hidden text-wrap' > Resume</Link>
+        <Link href='https:google.com' className='border-r border-b p-3 rounded-2xl hover:text-slate-300 hover:border-t hover:border-l hover:border-0 shadow-lg shadow-slate-700  lg:hidden text-wrap' >Download Resume</Link>
        </div>
        </div>
        <div className='flex-1 items-center text-white flex justify-center'>
-        <Link href='https:google.com' className='border-r border-b p-3 rounded-2xl hover:text-slate-300 hover:border-t hover:border-l hover:border-0 shadow-lg shadow-slate-700 hidden lg:block' >Download Resume</Link>
+        <Link href='https:google.com' className='border-r border-b p-3 rounded-2xl hover:text-slate-300 hover:border-t hover:border-l hover:border-0 shadow-lg shadow-slate-700  hidden lg:block' > Download Resume</Link>
        </div>
        
     </div>
