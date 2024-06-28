@@ -82,7 +82,7 @@ const TerminalComponent = () => {
   };
 
   return (
-    <div className='sm:w-[98%] lg:w-[80%]  p-2 relative lg:ml-32 lg:mr-32 '>
+    <div className='sm:w-[98%] lg:w-[80%]  p-2 relative lg:ml-36 lg:mr-36 '>
       <div ref={terminalRef} className='overflow-hidden p-5'/>
     </div>
   );

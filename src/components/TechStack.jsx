@@ -6,7 +6,7 @@ const TechStack = () => {
   return (
     <div className='flex-column justify-center p-8 md:ml-32 md:mr-32 '>
         <div className='flex gap-2'>
-            <Image src='about.svg' height={24} width={24} alt='logo'></Image>
+            <Image src='/tech-stack.png' height={24} width={24} alt='logo'></Image>
             <p className='text-2xl'><b>TECH-STACK</b></p>
         </div>
       
@@ -25,6 +25,7 @@ const TechStack = () => {
           <Subtech logo='/express.svg' name='Express js'/>
           <Subtech logo='/graphql.svg' name='Graph Ql'/>
           <Subtech logo='/redux.svg' name='Redux'/>
+          <Subtech logo='/tcss.svg' name='Tailwind Css'/>
           <Subtech logo='/react.svg' name='React'/>
           <Subtech logo='/vite.svg' name='Vite js'/>
           <Subtech logo='/next.png' name='Next js'/>

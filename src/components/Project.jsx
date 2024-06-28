@@ -6,7 +6,7 @@ const Project = () => {
   return (
     <div className='flex-column justify-center p-8 md:ml-32 md:mr-32 '>
         <div className='text-xl flex gap-2 p-2'> 
-            <Image src='/about.svg' height={24} width={24}></Image>
+            <Image src='/project.svg' height={24} width={24}></Image>
             <p className='text-2xl'><b>Projects</b></p>
         </div>
         

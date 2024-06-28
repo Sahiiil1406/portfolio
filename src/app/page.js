@@ -13,7 +13,7 @@ export default function Home() {
       <About/>
       <TechStack/>
       <Project/>
-      <div className="w-[50%x]">
+      <div className="">
       <TerminalComponent/>
       </div>
       <Footer/>

@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className='  md:ml-32 md:mr-32  p-8 '>
         <div className='flex gap-2'>
-            <Image src='about.svg' height={24} width={24} alt='logo'></Image>
+            <Image src='/contact.svg' height={24} width={24} alt='logo'></Image>
             <p className='text-2xl'><b>Contact Me</b></p>
         </div>
         <div className='text-lg text-slate-200 p-5'>
