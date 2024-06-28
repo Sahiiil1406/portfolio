@@ -1,0 +1,6 @@
+/* styles.css */
+.xterm-container .xterm-rows {
+    font-size: calc(12px + 0.5vw);
+    white-space: pre-wrap; /* Ensure text wraps within the terminal */
+  }
+  
