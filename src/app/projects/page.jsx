@@ -3,6 +3,7 @@ import React from 'react'
 import ProjectCard from '@/components/P/card1'
 import Card2 from '@/components/P/card2'
 import Card3 from '@/components/P/card3'
+import Card4 from '@/components/P/Card4'
 
 const page = () => {
   return (
@@ -12,6 +13,7 @@ const page = () => {
     <ProjectCard/>
     <Card2/>
     <Card3/>
+    <Card4/>
     
     
     </div>

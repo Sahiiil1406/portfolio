@@ -2,18 +2,21 @@
 import React from 'react'
 import Subtech from '../Subtech'
 import Image from 'next/image'
+import Link from 'next/link'
 
 const card3 = () => {
   return (
     <div className='bg-slate-200 md:w-[70%] md:h-[35%] p-5 rounded-lg bg-custom-gradient shadow-lg shadow-slate-900'>
         <div className='relative md:flex gap-5'>
             <div className='w-auto lg:w-[80%]  md:p-2 h-auto md:m-1'>
-                <h1 className='text-xl'><b>CourseNavigator</b></h1>
-                <div className='text-slate-300 border-b-2 border-slate-600 md:p-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, iusto praesentium minus quo tempora ea consequuntur consequatur laboriosam. Excepturi optio sequi itaque totam quia. Corrupti quisquam reiciendis molestias sit nesciunt?
+                <h1 className='text-xl hover:text-slate-400'><b><Link href='https://github.com/Sahiiil1406/LMS'>EduManage</Link></b></h1>
+                <div className='text-slate-300 border-b-2 border-slate-600 md:p-2'> 
+                EduManage is a digital platform designed to facilitate the creation, organization, and management of educational courses and content. It provides
+                tools for educators to track progress, engage with students, and streamline administrative tasks, enhancing the overall learning experience.
                     <br />
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Course Management</li>
+                    <li>User Authorisation and authentication</li>
+      
                 </div>
                 
                 <p className='p-2 '><b className='
