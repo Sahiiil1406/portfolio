@@ -28,7 +28,7 @@ const Card4 = () => {
           
             </div>
             <div className='p-3 items-center flex  justify-center'>
-                <Image src='/github.png' title='logo' height={500} width={500}></Image>
+                <Image src='/github.png' title='logo' height={300} width={300}></Image>
             </div>
         </div>
 
