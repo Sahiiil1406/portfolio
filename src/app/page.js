@@ -9,6 +9,7 @@ import TerminalComponent from "@/components/Terminal";
 export default function Home() {
   return (
     <div className="bg-custom-gradient h-[100%] text-slate-200 flex-column">
+      <div className="lg:ml-40 lg:mr-40 md:ml-20 md:mr-20">
       <Header />
       <About/>
       <TechStack/>
@@ -17,6 +18,7 @@ export default function Home() {
       <TerminalComponent/>
       </div>
       <Footer/>
+      </div>
       </div>
       
   );
