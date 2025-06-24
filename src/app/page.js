@@ -14,7 +14,7 @@ export default function Home() {
       <About/>
       <TechStack/>
       <Project/>
-      <div className="">
+      <div className="md:ml-36 md:mr-36">
       <TerminalComponent/>
       </div>
       <Footer/>

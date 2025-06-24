@@ -45,6 +45,7 @@ const TechStack = () => {
           <Subtech logo='/kafka.png' name='Kafka'/>
           <Subtech logo='/eth.svg' name='Ethereum'/>
           <Subtech logo='/github.png' name='Github'/>
+          <Subtech logo='/nginx.svg' name='Nginx'/>
           </div>
           
           

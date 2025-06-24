@@ -9,7 +9,7 @@ const About = () => {
             <div className='text-3xl'><b>About</b></div>
         </h1>
        
-        <p className='text-slate-300 p-5'>I am a passionate Full Stack MERN Developer with a expertise in Web3 development, particularly with Solidity and Hardhat. With a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js). As a continuous learner, I stay updated with the latest industry trends and technologies, ensuring the delivery of modern and relevant solutions
+        <p className='text-slate-300 p-5'>I am a passionate Software Enginneer
           <br />
           <br />
           Currently, I am pursuing a B.Tech in Computer Science and Engineering from NITK Surathkal. Let's connect and explore how I can help bring your next project to life with my unique blend of web development and blockchain expertise.
